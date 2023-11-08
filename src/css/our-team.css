@@ -1,5 +1,6 @@
 .team {
     width: 1280px;
+    margin-bottom: 80px;
 }
 
 .team-title {
@@ -18,7 +19,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 40px;
+    gap: 500px;
 }
 
 .team-item {}
