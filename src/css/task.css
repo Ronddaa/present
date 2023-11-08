@@ -1,3 +1,13 @@
+.wrraper-task{
+    position: relative;
+}
+
+.task-img2{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
 .task-ul{
     display: flex;
     flex-direction: column;
@@ -10,4 +20,8 @@
 
 .task-li-li{
     margin-left: 15px;
+}
+
+.task-img1{
+    margin-top: 150px;
 }
