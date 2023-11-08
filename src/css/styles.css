@@ -19,6 +19,7 @@ html{
   color: #fff;
   font-family: 'DM Sans', sans-serif;
   font-size: 24px;
+  scroll-behavior: smooth;
 }
 
 .container{
