@@ -1,0 +1,16 @@
+.footer-cont {
+    display: flex;
+}
+
+.footer-first-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.footer-second-wrap {
+    padding-top: 83px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
