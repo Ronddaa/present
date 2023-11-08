@@ -1,0 +1,42 @@
+.hero{
+    position: relative;
+}
+
+.wrapper-hero{
+    position: relative;
+    height: 850px;
+}
+
+.hero-bg{
+    position: absolute;
+    top: 50;
+    left: 50;
+    opacity: 0.05;
+    width: 60%;
+    z-index: 0;
+}
+
+.main-title{
+    position: absolute;
+    font-size: 168px;
+    top: 25%;
+    left: 25%;
+}
+
+.hero-img1{
+    position: absolute; 
+    left: 0;   
+    top: 0;
+    opacity: 0.5;
+}
+.hero-img2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    opacity: 0.5;
+}
+.hero-img3{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
