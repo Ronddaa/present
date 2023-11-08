@@ -1,0 +1,13 @@
+.task-ul{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+
+.task-ul-ul{
+    list-style: circle;
+}
+
+.task-li-li{
+    margin-left: 15px;
+}
